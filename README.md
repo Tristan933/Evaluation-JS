@@ -1,1 +1,1 @@
-# Evaluation-JS
+# Evaluation-JS (This is a little game Web Site for two players), (in progress).
